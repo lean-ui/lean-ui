@@ -1,0 +1,27 @@
+{
+  "name": "lean-ui",
+  "version": "0.0.1",
+  "description": "pure interactive logic, work well with angular/react/vue and all frameworks which support data-binding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/asnowwolf/lean-ui.git"
+  },
+  "keywords": [
+    "ui",
+    "library",
+    "angular",
+    "react",
+    "vue",
+    "data-binding"
+  ],
+  "author": "Zhicheng Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asnowwolf/lean-ui/issues"
+  },
+  "homepage": "https://github.com/asnowwolf/lean-ui#readme"
+}
