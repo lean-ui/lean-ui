@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/asnowwolf/lean-ui.git"
+    "url": "git+ssh://git@github.com/lean-ui/lean-ui.git"
   },
   "keywords": [
     "ui",
@@ -23,5 +23,10 @@
   "bugs": {
     "url": "https://github.com/asnowwolf/lean-ui/issues"
   },
-  "homepage": "https://github.com/asnowwolf/lean-ui#readme"
+  "homepage": "https://github.com/asnowwolf/lean-ui#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5",
+    "tslint": "^3.7.1"
+  }
 }
